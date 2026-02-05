@@ -1,4 +1,9 @@
-# Comp-Sci-5530
-**Name**: Tina (Quynh) Nguyen  
-**Student ID**: 16263619  
-**Course**: Comp-Sci 5530 Principles of Data Science  
+# Comp-Sci-5530: Principles of Data Science   
+
+# PROJECT: EMOTION RECOGNITION FROM SPEECH** 
+## Team Members:
+* **Tina Nguyen** 
+* **Diego Brown**
+* **Jainil Anilkumar Patel**
+* **JoshaLynn Worth**  
+
