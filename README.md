@@ -1,6 +1,6 @@
 # Comp-Sci-5530: Principles of Data Science   
 
-# PROJECT: EMOTION RECOGNITION FROM SPEECH** 
+# PROJECT: EMOTION RECOGNITION FROM SPEECH 
 ## Team Members:
 * **Tina Nguyen** 
 * **Diego Brown**
