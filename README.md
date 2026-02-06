@@ -3,7 +3,7 @@
 # Project: Emotion Recognition from Speech
 ## Team Members & Roles:
 * **Tina Nguyen:** [@tinana2k](https://github.com/tinana2k) 
-* **Diego Brown:**
+* **Diego Brown:** [@dsb4k8](https://github.com/dsb4k8)  
 * **Jainil Anilkumar Patel:** [@jainilpatel98](https://github.com/jainilpatel98) 
 * **JoshaLynn Worth:**  [@jrocks1561](https://github.com/Jrocks1561) 
 
