@@ -5,7 +5,7 @@
 * **Tina Nguyen:** [@tinana2k](https://github.com/tinana2k) 
 * **Diego Brown:**
 * **Jainil Anilkumar Patel:** [@jainilpatel98](https://github.com/jainilpatel98) 
-* **JoshaLynn Worth:**  
+* **JoshaLynn Worth:**  [@jrocks1561](https://github.com/Jrocks1561) 
 
 **Introduction:** One of the most basic forms of self-expression is speech, which encompasses a wide range of feelings, including excitement, peacefulness, joy, and rage, to mention a few. It is feasible to rearrange our activities, services, and even products in order to provide a more tailored experience to individual customers by evaluating the emotions that underlie communication.
 
